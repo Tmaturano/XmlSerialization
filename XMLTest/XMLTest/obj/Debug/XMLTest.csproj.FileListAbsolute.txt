@@ -1,0 +1,11 @@
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\XMLTest\XMLTest\bin\Debug\XMLTest.exe.config
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\XMLTest\XMLTest\bin\Debug\XMLTest.exe
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\XMLTest\XMLTest\bin\Debug\XMLTest.pdb
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\XMLTest\XMLTest\obj\Debug\XMLTest.csprojResolveAssemblyReference.cache
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\XMLTest\XMLTest\obj\Debug\XMLTest.exe
+c:\users\thiago.maturana\documents\visual studio 2013\Projects\XMLTest\XMLTest\obj\Debug\XMLTest.pdb
+C:\Users\thiago.maturana\Documents\GitHub\XmlSerialization\XMLTest\XMLTest\bin\Debug\XMLTest.exe.config
+C:\Users\thiago.maturana\Documents\GitHub\XmlSerialization\XMLTest\XMLTest\bin\Debug\XMLTest.exe
+C:\Users\thiago.maturana\Documents\GitHub\XmlSerialization\XMLTest\XMLTest\bin\Debug\XMLTest.pdb
+C:\Users\thiago.maturana\Documents\GitHub\XmlSerialization\XMLTest\XMLTest\obj\Debug\XMLTest.exe
+C:\Users\thiago.maturana\Documents\GitHub\XmlSerialization\XMLTest\XMLTest\obj\Debug\XMLTest.pdb
